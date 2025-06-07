@@ -35,8 +35,8 @@ This FastAPI-based application automates the analysis of employee invoice reimbu
 ### 1. Clone the Repository
 
 ```bash
-git clone <your_repo_url>
-cd <your_repo_name>
+git clone <repo_url>
+cd <repo_name>
 ```
 
 ### 2. Set up your Python Environment
